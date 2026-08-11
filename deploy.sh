@@ -1,3 +1,3 @@
 # Deployment script
-# deployment configuration
+# deployment configuration - conflict branch
 #deployed new config
