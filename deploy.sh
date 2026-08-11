@@ -1,3 +1,3 @@
 # Deployment script
-# deployment configuration
+# deployment configuration - main branch
 #deployed new config
